@@ -1,0 +1,19 @@
+
+.header {
+    background-color: #543310;
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    font-family: "Pacifico", cursive;
+    color: #B0A695;
+    font-size: 50px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    top: 10%;
+}
+
